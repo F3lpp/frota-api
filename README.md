@@ -109,4 +109,5 @@ git push -u origin feat/nome-da-tarefa
 
 Depois, no GitHub: **Compare & pull request** → descreva o que fez → **Create pull request**.
 Eu reviso, você ajusta se precisar e faz o **merge**. 🎉
-Autor: Felipe Prado
+
+Autor: Felipe Pradoo
