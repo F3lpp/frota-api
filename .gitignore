@@ -1,0 +1,9 @@
+# ambiente virtual do Python (cada um cria o seu)
+.venv/
+__pycache__/
+
+# banco local — cada máquina gera o seu ao rodar a API
+frota.db
+
+# segredos (senhas, chaves) NUNCA vão pro GitHub
+.env
